@@ -17,7 +17,7 @@
 
 - I'm a frontend developer. I currently use React/NextJS to develop websites and web apps.
 
-- Enjoy using the bleeding edge software and tools.
+- I enjoy using the bleeding edge software and tools.
 
 - I know the basics of relational databases, SQL and other backend technologies.
 
